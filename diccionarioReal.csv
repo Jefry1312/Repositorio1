@@ -1,0 +1,10 @@
+﻿vars;type
+Age;num
+Employment Type;char
+GraduateOrNot;bin
+AnnualIncome;num
+FamilyMembers;num
+ChronicDiseases;bin
+FrequentFlyer;bin
+EverTravelledAbroad;bin
+TravelInsurance;target
